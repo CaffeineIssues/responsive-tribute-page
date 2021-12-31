@@ -3,7 +3,9 @@ h1{
   text-align: center;
 
 }
-
+h3{
+  text-align: center;
+}
 title{
   text-align: center;
 
@@ -22,6 +24,11 @@ body{
   padding-left:10%;
   padding-right:10%;
   margin:auto;
+}
+.timeline{
+  text-align: justify;
+  padding-left:30%;
+
 }
 .img-div{
     width:100%;
