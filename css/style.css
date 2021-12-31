@@ -8,16 +8,29 @@ title{
   text-align: center;
 
 }
+.subtitle{
+  text-align: center;
+}
 body{
-  background-color:#ffe7e6;
+  background-color:white;
 
 
 
 }
+.main-text{
+  text-align: justify;
+  padding-left:10%;
+  padding-right:10%;
+  margin:auto;
+}
 .img-div{
-  background-color:white;
+    width:100%;
+    padding:0;
+    margin:auto;
 }
 .headline{
   background-color:white;
 }
-
+figure{
+  
+}
