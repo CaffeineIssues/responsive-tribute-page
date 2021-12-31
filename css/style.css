@@ -27,6 +27,9 @@ body{
 }
 .timeline{
   text-align: justify;
+  margin: 0 auto;
+  width: 30em;
+  
   
 
 }
@@ -40,6 +43,10 @@ body{
 }
 .img-box img{
   display: block;
+}
+.txt-box{
+  
+  
 }
 .headline{
   background-color:white;
