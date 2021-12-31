@@ -14,16 +14,15 @@ title{
   text-align: center;
 }
 body{
-  background-color:white;
+  background-color:#fff5c2;
   margin:0px;
 
 
 }
 .main-text{
   text-align: justify;
-  padding-left:10%;
-  padding-right:10%;
-  margin:auto;
+  margin: 0 auto;
+  width: 40em;
 }
 .timeline{
   text-align: justify;
