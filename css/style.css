@@ -61,3 +61,6 @@ figcaption{
   text-align:center;
   font-size: 10px;
 }
+li {
+  margin: 16px 0;
+}
