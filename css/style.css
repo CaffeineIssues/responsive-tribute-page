@@ -2,10 +2,15 @@
 h1{
   text-align: center;
   
+  
 
 }
 h3{
   text-align: center;
+}
+footer{
+  text-align: center;
+  border-bottom: 2px solid black;
 }
 title{
   text-align: center;
@@ -43,9 +48,11 @@ body{
     display:block;
     text-align:center;
     
+    
 }
 .img-box img{
   display: block;
+  border-bottom: 2px solid black;
 }
 .txt-box{
   
@@ -63,4 +70,13 @@ figcaption{
 }
 li {
   margin: 16px 0;
+}
+.headline-box{
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  height: 30px;
+  width: 100%;
+  top: 300px;
+  background: url(https://raw.githubusercontent.com/yi-sht/responsive-tribute-page/main/assets/headline.png) center repeat-x;
+  background-size: auto 100%;
 }
