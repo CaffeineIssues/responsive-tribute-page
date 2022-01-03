@@ -41,6 +41,7 @@ body{
     padding:0px;
     margin:0px;
     display:block;
+    text-align:center;
     
 }
 .img-box img{
@@ -55,4 +56,8 @@ body{
 }
 figure{
    
+}
+figcaption{
+  text-align:center;
+  font-size: 10px;
 }
