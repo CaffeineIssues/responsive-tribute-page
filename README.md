@@ -1,5 +1,5 @@
 # responsive-tribute-page
-Responsive tribute page made for FreeCodeCamp's first challenge
+Responsive tribute page made for FreeCodeCamp's responsive web design first challenge
 
 Objective was to make a tribute page;
 
